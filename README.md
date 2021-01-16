@@ -3,7 +3,7 @@ The Repository describes the basic html and css concepts
 
 ## Basic HTML and HTML5
 
-### Introduction to Basic HTML & HTML5:
+### Introduction to Basic HTML:
 
    HTML, or HyperText Markup Language, is a markup language used to describe the structure of a web page. It uses a special syntax or notation to organize and give information        about the page to the browser. Elements usually have opening and closing tags that surround and give meaning to content.
    - Example:
@@ -31,14 +31,6 @@ The Repository describes the basic html and css concepts
    <h5>Fifth Heading</h5>
    <h6> Sixth Heading</h6>
    ```
-   
-   **output:**
-   <h1>First Heading</h1>
-   <h2>Second Heading</h2>
-   <h3>Third Headind</h3>
-   <h4>Fourth Heading</h4>
-   <h5>Fifth Heading</h5>
-   <h6> Sixth Heading</h6>
    
  2. Paragraph Element
     p elements are the preferred element for paragraph text on websites. p is short for "paragraph". You can create a paragraph element like this:
